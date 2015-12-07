@@ -25,7 +25,6 @@ begin
 	     write(' ', tablica[i,j]:5);  
    end;
 
-// 
 	for i:=1 to n do 
 	 for j:=1 to n do
     begin
